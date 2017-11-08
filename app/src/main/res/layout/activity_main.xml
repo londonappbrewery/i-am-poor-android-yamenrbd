@@ -21,11 +21,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerInParent="false"
         android:layout_centerVertical="false"
-        android:text="TextView"
+        android:text="@string/title"
         android:textAlignment="center"
         android:textColor="@android:color/background_light"
-        android:textSize="40sp"
-        tools:text="@string/title"/>
+        android:textSize="40sp" />
 
     <ImageView
         android:id="@+id/imageView"
